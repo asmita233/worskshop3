@@ -1,0 +1,14 @@
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.AssemblyInfoInputs.cache
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.AssemblyInfo.cs
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.csproj.CoreCompileInputs.cache
+D:\Users\HP\source\repos\workshop 3\task1\bin\Debug\net9.0\task1.exe
+D:\Users\HP\source\repos\workshop 3\task1\bin\Debug\net9.0\task1.deps.json
+D:\Users\HP\source\repos\workshop 3\task1\bin\Debug\net9.0\task1.runtimeconfig.json
+D:\Users\HP\source\repos\workshop 3\task1\bin\Debug\net9.0\task1.dll
+D:\Users\HP\source\repos\workshop 3\task1\bin\Debug\net9.0\task1.pdb
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.dll
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\refint\task1.dll
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.pdb
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
+D:\Users\HP\source\repos\workshop 3\task1\obj\Debug\net9.0\ref\task1.dll
