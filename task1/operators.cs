@@ -1,6 +1,8 @@
-﻿class Program
+﻿using System;
+
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Operators op = new Operators();
 
@@ -8,7 +10,7 @@
         op.Subtract(10, 5);
         op.Multiply(10, 5);
         op.Divide(10, 5);
+        op.OddEvenFinder(10);
         op.OddEvenFinder(7);
-        op.OddEvenFinder(8);
     }
 }
